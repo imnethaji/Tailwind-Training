@@ -1,1 +1,1 @@
-This is a sample project to learn Tailwind CSS.
+This is a simple signup page design with Tailwind CSS.
